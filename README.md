@@ -1,2 +1,2 @@
 # DoPlan-App
-A simple Planner Planner application in React-Native.
+Main Repo for DoPlan Application
