@@ -1,0 +1,16 @@
+{
+  "name": "DoPlanServer",
+  "version": "0.0.1",
+  "description": "A Node.js server for DoPlan Application",
+  "main": "index.js",
+  "repository": "https://github.com/devrz45/DoPlan-App",
+  "author": "Devendra Parkar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  }
+}
