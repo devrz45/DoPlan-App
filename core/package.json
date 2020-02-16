@@ -1,0 +1,9 @@
+{
+  "name": "core",
+  "version": "0.0.1",
+  "description": "Package of core DoPlan application functionality",
+  "main": "index.js",
+  "author": "Devendra Parkar",
+  "license": "MIT",
+  "private": false
+}
