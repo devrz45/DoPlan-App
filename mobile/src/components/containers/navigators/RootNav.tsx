@@ -7,12 +7,12 @@ const Stack = createStackNavigator();
 
 interface Props {}
 
-const index: React.FC<Props> = () => {
+const RootNav: React.FC<Props> = () => {
   return (
-    <Stack.Navigator initialRouteName="Daily">
+    <Stack.Navigator initialRouteName="Daily" headerMode="none">
       <Stack.Screen name="Daily" component={Daily} />
     </Stack.Navigator>
   );
 };
 
-export default index;
+export default RootNav;
